@@ -1,0 +1,76 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2012-12-21 01:50:43 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-12-21 01:50:43 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-12-21 06:58:13 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-12-21 06:58:16 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-12-21 06:58:17 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-12-21 07:06:22 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-12-21 07:06:57 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-12-21 07:08:25 --> Severity: Warning  --> mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: MySQL server has gone away C:\xampp\htdocs\campaigns\singtel\sales-tracker-dev\system\database\drivers\mysql\mysql_driver.php 88
+ERROR - 2012-12-21 07:08:26 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-12-21 07:08:56 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-12-21 07:09:30 --> Severity: Warning  --> mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: MySQL server has gone away C:\xampp\htdocs\campaigns\singtel\sales-tracker-dev\system\database\drivers\mysql\mysql_driver.php 88
+ERROR - 2012-12-21 07:09:31 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-12-21 07:09:46 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-12-21 07:10:10 --> Severity: Warning  --> mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: MySQL server has gone away C:\xampp\htdocs\campaigns\singtel\sales-tracker-dev\system\database\drivers\mysql\mysql_driver.php 88
+ERROR - 2012-12-21 07:10:11 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-12-21 07:11:48 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-12-21 07:12:20 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-12-21 07:16:56 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-12-21 07:17:38 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-12-21 07:18:46 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-12-21 07:18:50 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-12-21 07:19:18 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-12-21 07:21:04 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-12-21 07:23:02 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-12-21 07:23:15 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-12-21 07:23:20 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-12-21 07:23:44 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-12-21 07:25:09 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-12-21 07:27:23 --> Severity: Warning  --> mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: MySQL server has gone away C:\xampp\htdocs\campaigns\singtel\sales-tracker-dev\system\database\drivers\mysql\mysql_driver.php 88
+ERROR - 2012-12-21 07:27:24 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-12-21 07:27:56 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-12-21 07:36:05 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-12-21 07:52:28 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-12-21 07:54:10 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-12-21 07:57:34 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-12-21 07:59:22 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-12-21 08:59:58 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-12-21 09:00:06 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-12-21 09:00:08 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-12-21 09:00:10 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-12-21 09:00:13 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-12-21 09:03:08 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-12-21 09:09:42 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-12-21 09:09:56 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-12-21 09:09:57 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-12-21 09:11:30 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-12-21 09:11:48 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-12-21 09:15:42 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-12-21 09:24:27 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-12-21 09:24:56 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-12-21 09:26:12 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-12-21 09:27:56 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-12-21 09:28:02 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-12-21 09:28:11 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-12-21 09:28:45 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-12-21 09:28:57 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-12-21 09:29:04 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-12-21 09:32:58 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-12-21 09:33:45 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-12-21 09:33:51 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-12-21 11:56:09 --> Severity: Warning  --> mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: MySQL server has gone away C:\xampp\htdocs\campaigns\singtel\sales-tracker-dev\system\database\drivers\mysql\mysql_driver.php 88
+ERROR - 2012-12-21 11:56:29 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-12-21 11:56:49 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-12-21 11:56:53 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-12-21 12:42:19 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-12-21 12:42:42 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-12-21 12:42:59 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-12-21 12:43:47 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-12-21 12:44:44 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-12-21 12:52:02 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-12-21 12:52:39 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-12-21 12:53:40 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-12-21 12:53:59 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-12-21 12:56:12 --> 404 Page Not Found --> fav.ico

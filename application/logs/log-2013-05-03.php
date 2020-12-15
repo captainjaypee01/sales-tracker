@@ -1,0 +1,26 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2013-05-03 08:23:10 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-05-03 08:23:22 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-05-03 08:23:26 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-05-03 08:23:33 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-05-03 08:23:37 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-05-03 08:24:58 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-05-03 08:25:00 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-05-03 08:25:24 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-05-03 09:37:42 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-05-03 09:39:35 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-05-03 09:39:41 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-05-03 09:39:42 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-05-03 11:26:30 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-05-03 11:26:42 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-05-03 11:26:46 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-05-03 11:26:49 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-05-03 11:26:52 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-05-03 11:26:53 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-05-03 11:26:57 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-05-03 11:27:02 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-05-03 11:27:18 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-05-03 11:27:23 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-05-03 11:30:36 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-05-03 11:31:02 --> 404 Page Not Found --> fav.ico

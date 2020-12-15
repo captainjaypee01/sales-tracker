@@ -1,0 +1,23 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2013-02-07 00:17:34 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-02-07 00:17:35 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-02-07 01:36:22 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-02-07 01:36:24 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-02-07 01:36:26 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-02-07 01:36:33 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-02-07 01:36:36 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-02-07 01:36:44 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-02-07 01:37:18 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-02-07 01:38:20 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-02-07 01:42:54 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-02-07 01:45:36 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-02-07 01:50:37 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-02-07 01:51:14 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-02-07 01:51:59 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-02-07 01:52:09 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-02-07 01:52:52 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-02-07 06:47:35 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-02-07 13:48:14 --> 404 Page Not Found --> manager/calculator
+ERROR - 2013-02-07 13:48:19 --> 404 Page Not Found --> manager/calculator
+ERROR - 2013-02-07 10:02:33 --> 404 Page Not Found --> prices

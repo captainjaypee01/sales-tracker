@@ -1,0 +1,30 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2013-11-13 09:09:28 --> 404 Page Not Found --> includes
+ERROR - 2013-11-13 09:14:05 --> 404 Page Not Found --> includes
+ERROR - 2013-11-13 09:25:50 --> 404 Page Not Found --> includes
+ERROR - 2013-11-13 09:25:52 --> 404 Page Not Found --> includes
+ERROR - 2013-11-13 09:31:42 --> 404 Page Not Found --> includes
+ERROR - 2013-11-13 09:31:42 --> 404 Page Not Found --> includes
+ERROR - 2013-11-13 09:50:39 --> 404 Page Not Found --> includes
+ERROR - 2013-11-13 10:15:38 --> 404 Page Not Found --> includes
+ERROR - 2013-11-13 10:15:42 --> 404 Page Not Found --> includes
+ERROR - 2013-11-13 10:21:11 --> 404 Page Not Found --> includes
+ERROR - 2013-11-13 10:21:11 --> 404 Page Not Found --> includes
+ERROR - 2013-11-13 11:13:13 --> 404 Page Not Found --> includes
+ERROR - 2013-11-13 11:13:15 --> 404 Page Not Found --> includes
+ERROR - 2013-11-13 11:13:15 --> 404 Page Not Found --> includes
+ERROR - 2013-11-13 12:49:47 --> Query error: Table 'sales_tracker.trck_form_mcs' doesn't exist
+ERROR - 2013-11-13 12:49:52 --> Query error: Table 'sales_tracker.trck_form_mcs' doesn't exist
+ERROR - 2013-11-13 13:13:13 --> 404 Page Not Found --> includes
+ERROR - 2013-11-13 13:13:13 --> 404 Page Not Found --> includes
+ERROR - 2013-11-13 13:25:18 --> 404 Page Not Found --> includes
+ERROR - 2013-11-13 13:25:18 --> 404 Page Not Found --> includes
+ERROR - 2013-11-13 14:00:17 --> 404 Page Not Found --> includes
+ERROR - 2013-11-13 14:07:00 --> Severity: Warning  --> mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: MySQL server has gone away C:\xampp\htdocs\campaigns\singtel\sales-tracker\system\database\drivers\mysql\mysql_driver.php 88
+ERROR - 2013-11-13 14:50:16 --> 404 Page Not Found --> includes
+ERROR - 2013-11-13 14:50:17 --> 404 Page Not Found --> includes
+ERROR - 2013-11-13 15:29:38 --> 404 Page Not Found --> includes
+ERROR - 2013-11-13 17:27:16 --> 404 Page Not Found --> includes
+ERROR - 2013-11-13 17:27:16 --> 404 Page Not Found --> includes
+ERROR - 2013-11-13 17:27:20 --> 404 Page Not Found --> includes

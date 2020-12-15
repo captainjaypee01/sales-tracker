@@ -1,0 +1,34 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2013-02-26 05:47:25 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-02-26 05:49:31 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-02-26 05:49:34 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-02-26 05:49:35 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-02-26 05:50:14 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-02-26 05:50:59 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-02-26 05:51:00 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-02-26 05:51:08 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-02-26 05:51:09 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-02-26 05:51:11 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-02-26 05:51:45 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-02-26 05:51:46 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-02-26 05:51:48 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-02-26 05:51:49 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-02-26 05:53:10 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-02-26 05:53:15 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-02-26 05:54:08 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-02-26 05:54:11 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-02-26 05:54:12 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-02-26 05:58:13 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-02-26 05:58:14 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-02-26 05:58:42 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-02-26 06:05:12 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-02-26 06:06:15 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-02-26 06:07:36 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-02-26 09:12:21 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-02-26 10:34:24 --> Severity: Warning  --> mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: MySQL server has gone away C:\xampp\htdocs\campaigns\singtel\sales-tracker-dev\system\database\drivers\mysql\mysql_driver.php 88
+ERROR - 2013-02-26 10:34:26 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-02-26 10:35:08 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-02-26 11:42:24 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-02-26 12:09:24 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-02-26 12:09:55 --> 404 Page Not Found --> fav.ico

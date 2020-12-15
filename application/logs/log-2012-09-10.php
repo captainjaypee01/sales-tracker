@@ -1,0 +1,92 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2012-09-10 07:36:11 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-09-10 07:36:11 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-09-10 14:46:53 --> Severity: Warning  --> odbc_pconnect() [<a href='function.odbc-pconnect'>function.odbc-pconnect</a>]: SQL error: [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified, SQL state IM002 in SQLConnect C:\xampp\htdocs\campaigns\singtel\sales-tracker-dev\system\database\drivers\odbc\odbc_driver.php 79
+ERROR - 2012-09-10 14:46:53 --> Unable to connect to the database
+ERROR - 2012-09-10 14:47:05 --> Severity: Warning  --> odbc_pconnect() [<a href='function.odbc-pconnect'>function.odbc-pconnect</a>]: SQL error: [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified, SQL state IM002 in SQLConnect C:\xampp\htdocs\campaigns\singtel\sales-tracker-dev\system\database\drivers\odbc\odbc_driver.php 79
+ERROR - 2012-09-10 14:47:05 --> Unable to connect to the database
+ERROR - 2012-09-10 14:49:14 --> Severity: Warning  --> odbc_pconnect() [<a href='function.odbc-pconnect'>function.odbc-pconnect</a>]: SQL error: [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified, SQL state IM002 in SQLConnect C:\xampp\htdocs\campaigns\singtel\sales-tracker-dev\system\database\drivers\odbc\odbc_driver.php 79
+ERROR - 2012-09-10 14:49:14 --> Unable to connect to the database
+ERROR - 2012-09-10 14:49:14 --> Severity: Warning  --> odbc_pconnect() [<a href='function.odbc-pconnect'>function.odbc-pconnect</a>]: SQL error: [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified, SQL state IM002 in SQLConnect C:\xampp\htdocs\campaigns\singtel\sales-tracker-dev\system\database\drivers\odbc\odbc_driver.php 79
+ERROR - 2012-09-10 14:49:14 --> Unable to connect to the database
+ERROR - 2012-09-10 14:49:15 --> Severity: Warning  --> odbc_pconnect() [<a href='function.odbc-pconnect'>function.odbc-pconnect</a>]: SQL error: [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified, SQL state IM002 in SQLConnect C:\xampp\htdocs\campaigns\singtel\sales-tracker-dev\system\database\drivers\odbc\odbc_driver.php 79
+ERROR - 2012-09-10 14:49:15 --> Unable to connect to the database
+ERROR - 2012-09-10 14:50:11 --> Severity: Warning  --> odbc_pconnect() [<a href='function.odbc-pconnect'>function.odbc-pconnect</a>]: SQL error: [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified, SQL state IM002 in SQLConnect C:\xampp\htdocs\campaigns\singtel\sales-tracker-dev\system\database\drivers\odbc\odbc_driver.php 79
+ERROR - 2012-09-10 14:50:11 --> Unable to connect to the database
+ERROR - 2012-09-10 14:50:13 --> Severity: Warning  --> odbc_pconnect() [<a href='function.odbc-pconnect'>function.odbc-pconnect</a>]: SQL error: [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified, SQL state IM002 in SQLConnect C:\xampp\htdocs\campaigns\singtel\sales-tracker-dev\system\database\drivers\odbc\odbc_driver.php 79
+ERROR - 2012-09-10 14:50:13 --> Unable to connect to the database
+ERROR - 2012-09-10 14:50:29 --> Severity: Warning  --> odbc_pconnect() [<a href='function.odbc-pconnect'>function.odbc-pconnect</a>]: SQL error: [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified, SQL state IM002 in SQLConnect C:\xampp\htdocs\campaigns\singtel\sales-tracker-dev\system\database\drivers\odbc\odbc_driver.php 79
+ERROR - 2012-09-10 14:50:29 --> Unable to connect to the database
+ERROR - 2012-09-10 14:50:42 --> Severity: Warning  --> odbc_pconnect() [<a href='function.odbc-pconnect'>function.odbc-pconnect</a>]: SQL error: [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified, SQL state IM002 in SQLConnect C:\xampp\htdocs\campaigns\singtel\sales-tracker-dev\system\database\drivers\odbc\odbc_driver.php 79
+ERROR - 2012-09-10 14:50:42 --> Unable to connect to the database
+ERROR - 2012-09-10 14:51:39 --> Severity: Warning  --> odbc_pconnect() [<a href='function.odbc-pconnect'>function.odbc-pconnect</a>]: SQL error: [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified, SQL state IM002 in SQLConnect C:\xampp\htdocs\campaigns\singtel\sales-tracker-dev\system\database\drivers\odbc\odbc_driver.php 79
+ERROR - 2012-09-10 14:51:39 --> Unable to connect to the database
+ERROR - 2012-09-10 14:51:39 --> Severity: Warning  --> odbc_pconnect() [<a href='function.odbc-pconnect'>function.odbc-pconnect</a>]: SQL error: [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified, SQL state IM002 in SQLConnect C:\xampp\htdocs\campaigns\singtel\sales-tracker-dev\system\database\drivers\odbc\odbc_driver.php 79
+ERROR - 2012-09-10 14:51:39 --> Unable to connect to the database
+ERROR - 2012-09-10 14:51:40 --> Severity: Warning  --> odbc_pconnect() [<a href='function.odbc-pconnect'>function.odbc-pconnect</a>]: SQL error: [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified, SQL state IM002 in SQLConnect C:\xampp\htdocs\campaigns\singtel\sales-tracker-dev\system\database\drivers\odbc\odbc_driver.php 79
+ERROR - 2012-09-10 14:51:40 --> Unable to connect to the database
+ERROR - 2012-09-10 14:51:41 --> Severity: Warning  --> odbc_pconnect() [<a href='function.odbc-pconnect'>function.odbc-pconnect</a>]: SQL error: [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified, SQL state IM002 in SQLConnect C:\xampp\htdocs\campaigns\singtel\sales-tracker-dev\system\database\drivers\odbc\odbc_driver.php 79
+ERROR - 2012-09-10 14:51:41 --> Unable to connect to the database
+ERROR - 2012-09-10 14:51:43 --> Severity: Warning  --> odbc_pconnect() [<a href='function.odbc-pconnect'>function.odbc-pconnect</a>]: SQL error: [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified, SQL state IM002 in SQLConnect C:\xampp\htdocs\campaigns\singtel\sales-tracker-dev\system\database\drivers\odbc\odbc_driver.php 79
+ERROR - 2012-09-10 14:51:43 --> Unable to connect to the database
+ERROR - 2012-09-10 14:52:51 --> Severity: Warning  --> odbc_pconnect() [<a href='function.odbc-pconnect'>function.odbc-pconnect</a>]: SQL error: [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified, SQL state IM002 in SQLConnect C:\xampp\htdocs\campaigns\singtel\sales-tracker-dev\system\database\drivers\odbc\odbc_driver.php 79
+ERROR - 2012-09-10 14:52:51 --> Unable to connect to the database
+ERROR - 2012-09-10 14:52:53 --> Severity: Warning  --> odbc_pconnect() [<a href='function.odbc-pconnect'>function.odbc-pconnect</a>]: SQL error: [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified, SQL state IM002 in SQLConnect C:\xampp\htdocs\campaigns\singtel\sales-tracker-dev\system\database\drivers\odbc\odbc_driver.php 79
+ERROR - 2012-09-10 14:52:53 --> Unable to connect to the database
+ERROR - 2012-09-10 14:53:09 --> Severity: Warning  --> odbc_pconnect() [<a href='function.odbc-pconnect'>function.odbc-pconnect</a>]: SQL error: [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified, SQL state IM002 in SQLConnect C:\xampp\htdocs\campaigns\singtel\sales-tracker-dev\system\database\drivers\odbc\odbc_driver.php 79
+ERROR - 2012-09-10 14:53:09 --> Unable to connect to the database
+ERROR - 2012-09-10 14:53:10 --> Severity: Warning  --> odbc_pconnect() [<a href='function.odbc-pconnect'>function.odbc-pconnect</a>]: SQL error: [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified, SQL state IM002 in SQLConnect C:\xampp\htdocs\campaigns\singtel\sales-tracker-dev\system\database\drivers\odbc\odbc_driver.php 79
+ERROR - 2012-09-10 14:53:10 --> Unable to connect to the database
+ERROR - 2012-09-10 14:54:28 --> Severity: Warning  --> odbc_pconnect() [<a href='function.odbc-pconnect'>function.odbc-pconnect</a>]: SQL error: [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified, SQL state IM002 in SQLConnect C:\xampp\htdocs\campaigns\singtel\sales-tracker-dev\system\database\drivers\odbc\odbc_driver.php 79
+ERROR - 2012-09-10 14:54:28 --> Unable to connect to the database
+ERROR - 2012-09-10 15:19:00 --> Severity: Warning  --> odbc_pconnect() [<a href='function.odbc-pconnect'>function.odbc-pconnect</a>]: SQL error: [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified, SQL state IM002 in SQLConnect C:\xampp\htdocs\campaigns\singtel\sales-tracker-dev\system\database\drivers\odbc\odbc_driver.php 79
+ERROR - 2012-09-10 15:19:00 --> Unable to connect to the database
+ERROR - 2012-09-10 15:19:02 --> Severity: Warning  --> odbc_pconnect() [<a href='function.odbc-pconnect'>function.odbc-pconnect</a>]: SQL error: [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified, SQL state IM002 in SQLConnect C:\xampp\htdocs\campaigns\singtel\sales-tracker-dev\system\database\drivers\odbc\odbc_driver.php 79
+ERROR - 2012-09-10 15:19:02 --> Unable to connect to the database
+ERROR - 2012-09-10 15:19:03 --> Severity: Warning  --> odbc_pconnect() [<a href='function.odbc-pconnect'>function.odbc-pconnect</a>]: SQL error: [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified, SQL state IM002 in SQLConnect C:\xampp\htdocs\campaigns\singtel\sales-tracker-dev\system\database\drivers\odbc\odbc_driver.php 79
+ERROR - 2012-09-10 15:19:03 --> Unable to connect to the database
+ERROR - 2012-09-10 15:19:03 --> Severity: Warning  --> odbc_pconnect() [<a href='function.odbc-pconnect'>function.odbc-pconnect</a>]: SQL error: [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified, SQL state IM002 in SQLConnect C:\xampp\htdocs\campaigns\singtel\sales-tracker-dev\system\database\drivers\odbc\odbc_driver.php 79
+ERROR - 2012-09-10 15:19:03 --> Unable to connect to the database
+ERROR - 2012-09-10 15:19:04 --> Severity: Warning  --> odbc_pconnect() [<a href='function.odbc-pconnect'>function.odbc-pconnect</a>]: SQL error: [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified, SQL state IM002 in SQLConnect C:\xampp\htdocs\campaigns\singtel\sales-tracker-dev\system\database\drivers\odbc\odbc_driver.php 79
+ERROR - 2012-09-10 15:19:04 --> Unable to connect to the database
+ERROR - 2012-09-10 15:19:04 --> Severity: Warning  --> odbc_pconnect() [<a href='function.odbc-pconnect'>function.odbc-pconnect</a>]: SQL error: [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified, SQL state IM002 in SQLConnect C:\xampp\htdocs\campaigns\singtel\sales-tracker-dev\system\database\drivers\odbc\odbc_driver.php 79
+ERROR - 2012-09-10 15:19:04 --> Unable to connect to the database
+ERROR - 2012-09-10 15:19:04 --> Severity: Warning  --> odbc_pconnect() [<a href='function.odbc-pconnect'>function.odbc-pconnect</a>]: SQL error: [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified, SQL state IM002 in SQLConnect C:\xampp\htdocs\campaigns\singtel\sales-tracker-dev\system\database\drivers\odbc\odbc_driver.php 79
+ERROR - 2012-09-10 15:19:04 --> Unable to connect to the database
+ERROR - 2012-09-10 15:19:05 --> Severity: Warning  --> odbc_pconnect() [<a href='function.odbc-pconnect'>function.odbc-pconnect</a>]: SQL error: [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified, SQL state IM002 in SQLConnect C:\xampp\htdocs\campaigns\singtel\sales-tracker-dev\system\database\drivers\odbc\odbc_driver.php 79
+ERROR - 2012-09-10 15:19:05 --> Unable to connect to the database
+ERROR - 2012-09-10 15:22:18 --> Severity: Warning  --> odbc_pconnect() [<a href='function.odbc-pconnect'>function.odbc-pconnect</a>]: SQL error: [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified, SQL state IM002 in SQLConnect C:\xampp\htdocs\campaigns\singtel\sales-tracker-dev\system\database\drivers\odbc\odbc_driver.php 79
+ERROR - 2012-09-10 15:22:18 --> Unable to connect to the database
+ERROR - 2012-09-10 15:22:20 --> Severity: Warning  --> odbc_pconnect() [<a href='function.odbc-pconnect'>function.odbc-pconnect</a>]: SQL error: [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified, SQL state IM002 in SQLConnect C:\xampp\htdocs\campaigns\singtel\sales-tracker-dev\system\database\drivers\odbc\odbc_driver.php 79
+ERROR - 2012-09-10 15:22:20 --> Unable to connect to the database
+ERROR - 2012-09-10 15:24:58 --> Severity: Warning  --> odbc_pconnect() [<a href='function.odbc-pconnect'>function.odbc-pconnect</a>]: SQL error: [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified, SQL state IM002 in SQLConnect C:\xampp\htdocs\campaigns\singtel\sales-tracker-dev\system\database\drivers\odbc\odbc_driver.php 79
+ERROR - 2012-09-10 15:24:58 --> Unable to connect to the database
+ERROR - 2012-09-10 15:25:55 --> Severity: Warning  --> odbc_connect() [<a href='function.odbc-connect'>function.odbc-connect</a>]: SQL error: [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified, SQL state IM002 in SQLConnect C:\xampp\htdocs\campaigns\singtel\sales-tracker-dev\application\controllers\agent.php 28
+ERROR - 2012-09-10 15:33:16 --> Severity: Notice  --> Undefined variable: data C:\xampp\htdocs\campaigns\singtel\sales-tracker-dev\application\views\manager\search.php 19
+ERROR - 2012-09-10 15:33:16 --> Severity: Notice  --> Undefined variable: data C:\xampp\htdocs\campaigns\singtel\sales-tracker-dev\application\views\manager\search.php 23
+ERROR - 2012-09-10 15:33:41 --> Severity: Notice  --> Undefined variable: data C:\xampp\htdocs\campaigns\singtel\sales-tracker-dev\application\views\manager\search.php 19
+ERROR - 2012-09-10 15:33:41 --> Severity: Notice  --> Undefined variable: data C:\xampp\htdocs\campaigns\singtel\sales-tracker-dev\application\views\manager\search.php 23
+ERROR - 2012-09-10 15:33:43 --> Severity: Notice  --> Undefined variable: data C:\xampp\htdocs\campaigns\singtel\sales-tracker-dev\application\views\manager\search.php 19
+ERROR - 2012-09-10 15:33:43 --> Severity: Notice  --> Undefined variable: data C:\xampp\htdocs\campaigns\singtel\sales-tracker-dev\application\views\manager\search.php 23
+ERROR - 2012-09-10 15:35:34 --> Severity: Notice  --> Undefined variable: data C:\xampp\htdocs\campaigns\singtel\sales-tracker-dev\application\views\manager\search.php 35
+ERROR - 2012-09-10 11:31:46 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-09-10 11:31:46 --> 404 Page Not Found --> fav.ico
+ERROR - 2012-09-10 17:32:38 --> Query error: Table 'nsi_singtel_fic_0.lastdispo' doesn't exist
+ERROR - 2012-09-10 17:33:01 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.`lastdispo`)' at line 2
+ERROR - 2012-09-10 17:36:01 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.`lastdispo`)' at line 2
+ERROR - 2012-09-10 17:36:02 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.`lastdispo`)' at line 2
+ERROR - 2012-09-10 17:36:10 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.`lastdispo`)' at line 2
+ERROR - 2012-09-10 17:36:45 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.`lastdispo`)' at line 2
+ERROR - 2012-09-10 17:36:47 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.`lastdispo`)' at line 2
+ERROR - 2012-09-10 18:54:15 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.`lastdispo`)' at line 2
+ERROR - 2012-09-10 18:56:15 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.`lastdispo`)' at line 2
+ERROR - 2012-09-10 19:00:01 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.`lastdispo`)' at line 2
+ERROR - 2012-09-10 19:00:04 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.`lastdispo`)' at line 2
+ERROR - 2012-09-10 19:06:51 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.`lastdispo`)' at line 2
+ERROR - 2012-09-10 19:06:54 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.`lastdispo`)' at line 2
+ERROR - 2012-09-10 19:07:07 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.`lastdispo`)' at line 2
+ERROR - 2012-09-10 19:07:25 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.`lastdispo`)' at line 2
+ERROR - 2012-09-10 19:07:26 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.`lastdispo`)' at line 2
+ERROR - 2012-09-10 19:07:26 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.`lastdispo`)' at line 2
+ERROR - 2012-09-10 19:08:24 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.`lastdispo`)' at line 2

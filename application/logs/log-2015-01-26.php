@@ -1,0 +1,50 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2015-01-26 11:50:54 --> 404 Page Not Found --> includes
+ERROR - 2015-01-26 11:50:55 --> 404 Page Not Found --> includes
+ERROR - 2015-01-26 11:51:09 --> 404 Page Not Found --> includes
+ERROR - 2015-01-26 11:51:10 --> 404 Page Not Found --> includes
+ERROR - 2015-01-26 12:24:49 --> 404 Page Not Found --> includes
+ERROR - 2015-01-26 12:24:49 --> 404 Page Not Found --> includes
+ERROR - 2015-01-26 12:29:59 --> 404 Page Not Found --> includes
+ERROR - 2015-01-26 16:32:07 --> Severity: Warning  --> odbc_pconnect(): SQL error: [unixODBC][FreeTDS][SQL Server]Unable to connect to data source, SQL state S1000 in SQLConnect /var/www/campaigns/singtel/sales-tracker/system/database/drivers/odbc/odbc_driver.php 79
+ERROR - 2015-01-26 16:32:07 --> Unable to connect to the database
+ERROR - 2015-01-26 16:32:22 --> Severity: Warning  --> odbc_pconnect(): SQL error: [unixODBC][FreeTDS][SQL Server]Unable to connect to data source, SQL state S1000 in SQLConnect /var/www/campaigns/singtel/sales-tracker/system/database/drivers/odbc/odbc_driver.php 79
+ERROR - 2015-01-26 16:32:22 --> Unable to connect to the database
+ERROR - 2015-01-26 16:33:57 --> 404 Page Not Found --> includes
+ERROR - 2015-01-26 16:33:57 --> 404 Page Not Found --> includes
+ERROR - 2015-01-26 19:17:35 --> 404 Page Not Found --> includes
+ERROR - 2015-01-26 19:17:36 --> 404 Page Not Found --> includes
+ERROR - 2015-01-26 19:18:58 --> Severity: Warning  --> odbc_pconnect(): SQL error: [unixODBC][FreeTDS][SQL Server]Unable to connect to data source, SQL state S1000 in SQLConnect /var/www/campaigns/singtel/sales-tracker/system/database/drivers/odbc/odbc_driver.php 79
+ERROR - 2015-01-26 19:18:58 --> Unable to connect to the database
+ERROR - 2015-01-26 20:30:51 --> 404 Page Not Found --> includes
+ERROR - 2015-01-26 21:23:52 --> 404 Page Not Found --> includes
+ERROR - 2015-01-26 21:23:53 --> 404 Page Not Found --> includes
+ERROR - 2015-01-26 21:56:11 --> 404 Page Not Found --> includes
+ERROR - 2015-01-26 21:56:11 --> 404 Page Not Found --> includes
+ERROR - 2015-01-26 21:56:15 --> 404 Page Not Found --> includes
+ERROR - 2015-01-26 21:56:15 --> 404 Page Not Found --> includes
+ERROR - 2015-01-26 21:57:38 --> 404 Page Not Found --> includes
+ERROR - 2015-01-26 21:57:39 --> 404 Page Not Found --> includes
+ERROR - 2015-01-26 22:01:40 --> 404 Page Not Found --> includes
+ERROR - 2015-01-26 22:01:40 --> 404 Page Not Found --> includes
+ERROR - 2015-01-26 22:01:41 --> 404 Page Not Found --> includes
+ERROR - 2015-01-26 22:01:42 --> 404 Page Not Found --> includes
+ERROR - 2015-01-26 22:07:40 --> 404 Page Not Found --> includes
+ERROR - 2015-01-26 22:07:40 --> 404 Page Not Found --> includes
+ERROR - 2015-01-26 22:07:41 --> 404 Page Not Found --> includes
+ERROR - 2015-01-26 22:07:42 --> 404 Page Not Found --> includes
+ERROR - 2015-01-26 22:07:57 --> 404 Page Not Found --> includes
+ERROR - 2015-01-26 22:07:57 --> 404 Page Not Found --> includes
+ERROR - 2015-01-26 22:13:57 --> 404 Page Not Found --> includes
+ERROR - 2015-01-26 22:13:57 --> 404 Page Not Found --> includes
+ERROR - 2015-01-26 22:18:33 --> 404 Page Not Found --> includes
+ERROR - 2015-01-26 22:18:33 --> 404 Page Not Found --> includes
+ERROR - 2015-01-26 22:22:34 --> 404 Page Not Found --> includes
+ERROR - 2015-01-26 22:22:34 --> 404 Page Not Found --> includes
+ERROR - 2015-01-26 22:27:14 --> 404 Page Not Found --> includes
+ERROR - 2015-01-26 22:27:14 --> 404 Page Not Found --> includes
+ERROR - 2015-01-26 22:31:23 --> 404 Page Not Found --> includes
+ERROR - 2015-01-26 22:31:23 --> 404 Page Not Found --> includes
+ERROR - 2015-01-26 22:46:11 --> 404 Page Not Found --> includes
+ERROR - 2015-01-26 22:46:11 --> 404 Page Not Found --> includes

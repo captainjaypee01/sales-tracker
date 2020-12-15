@@ -1,0 +1,31 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2014-11-25 14:58:37 --> Severity: Warning  --> odbc_pconnect() [<a href='function.odbc-pconnect'>function.odbc-pconnect</a>]: SQL error: [unixODBC][FreeTDS][SQL Server]Unable to connect to data source, SQL state S1000 in SQLConnect /var/www/campaigns/singtel/sales-tracker/system/database/drivers/odbc/odbc_driver.php 79
+ERROR - 2014-11-25 14:58:37 --> Unable to connect to the database
+ERROR - 2014-11-25 15:26:21 --> 404 Page Not Found --> includes
+ERROR - 2014-11-25 15:26:21 --> 404 Page Not Found --> includes
+ERROR - 2014-11-25 15:26:52 --> 404 Page Not Found --> includes
+ERROR - 2014-11-25 15:26:52 --> 404 Page Not Found --> includes
+ERROR - 2014-11-25 15:41:45 --> 404 Page Not Found --> includes
+ERROR - 2014-11-25 15:41:45 --> 404 Page Not Found --> includes
+ERROR - 2014-11-25 15:43:16 --> 404 Page Not Found --> includes
+ERROR - 2014-11-25 15:49:43 --> 404 Page Not Found --> includes
+ERROR - 2014-11-25 17:19:03 --> 404 Page Not Found --> includes
+ERROR - 2014-11-25 18:14:27 --> 404 Page Not Found --> includes
+ERROR - 2014-11-25 18:14:28 --> 404 Page Not Found --> includes
+ERROR - 2014-11-25 18:14:29 --> 404 Page Not Found --> includes
+ERROR - 2014-11-25 18:14:30 --> 404 Page Not Found --> includes
+ERROR - 2014-11-25 18:14:30 --> 404 Page Not Found --> includes
+ERROR - 2014-11-25 18:14:34 --> 404 Page Not Found --> includes
+ERROR - 2014-11-25 18:14:35 --> 404 Page Not Found --> includes
+ERROR - 2014-11-25 18:14:36 --> 404 Page Not Found --> includes
+ERROR - 2014-11-25 18:14:45 --> 404 Page Not Found --> includes
+ERROR - 2014-11-25 18:15:36 --> 404 Page Not Found --> includes
+ERROR - 2014-11-25 18:16:55 --> 404 Page Not Found --> includes
+ERROR - 2014-11-25 18:33:30 --> 404 Page Not Found --> includes
+ERROR - 2014-11-25 18:33:32 --> 404 Page Not Found --> includes
+ERROR - 2014-11-25 18:33:32 --> 404 Page Not Found --> includes
+ERROR - 2014-11-25 18:35:20 --> 404 Page Not Found --> includes
+ERROR - 2014-11-25 21:46:21 --> 404 Page Not Found --> includes
+ERROR - 2014-11-25 22:58:48 --> 404 Page Not Found --> includes
+ERROR - 2014-11-25 23:20:40 --> 404 Page Not Found --> includes

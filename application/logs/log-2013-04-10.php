@@ -1,0 +1,19 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2013-04-10 08:19:49 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-04-10 08:19:53 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-04-10 08:19:56 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-04-10 08:19:59 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-04-10 08:20:02 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-04-10 08:20:10 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-04-10 10:51:33 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-04-10 10:51:35 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-04-10 10:51:36 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-04-10 10:51:38 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-04-10 10:51:41 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-04-10 11:48:31 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-04-10 11:49:50 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-04-10 11:50:07 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-04-10 11:50:19 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-04-10 11:50:25 --> 404 Page Not Found --> fav.ico
+ERROR - 2013-04-10 12:01:23 --> 404 Page Not Found --> fav.ico

@@ -107,7 +107,12 @@
                                 <tr>
                                     <td>New Internet Speed:</td>
                                     <td><?php echo $result['new_internet_speed']; ?></td>
-                                </tr>
+								</tr>
+                                <tr>
+                                    <td>TV Pack:</td>
+                                    <td><?php echo $result['tv_pack']; ?></td>
+								</tr>
+								
                                 <tr>
                                     <td>Existing Pack:</td>
                                     <td><?php echo $result['existing_pack']; ?></td>

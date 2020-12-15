@@ -241,6 +241,9 @@ Class Agent extends CI_Controller {
 					//destroy submit_borrower from the POST array
 					unset($_POST['submit_record']);
 					//add borrower
+					$tvPacks = implode(',', $_POST["tv_pack"]);
+					$_POST['tv_pack'] = $tvPacks;
+					// print_r($_POST);
 					$insert_id = $this->Record_model->add($_POST);
 					if ($insert_id) {
 						$this->session->set_flashdata('prompt', '<div><span class="prompt">Record added.</span></div>');
@@ -383,6 +386,9 @@ Class Agent extends CI_Controller {
 				if (isset($_POST['submit_record'])) {
 					
 					unset($_POST['submit_record']);
+					
+					$tvPacks = implode(',', $_POST["tv_pack"]);
+					$_POST['tv_pack'] = $tvPacks;
 					
 					$update = $this->Record_model->edit($_POST, $id);
 					

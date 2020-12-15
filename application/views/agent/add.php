@@ -103,7 +103,15 @@
                                 <tr>
                                     <td>New Internet Speed:</td>
                                     <td><input type="text" name="new_internet_speed" value="<?php echo set_value('new_internet_speed'); ?>" /></td>
-                                </tr>
+								</tr>
+								<tr>
+									<td>TV Pack</td>
+									<td>
+										<select class="js-example-basic-multiple" name="tv_pack[]" multiple="multiple">
+											
+										</select>
+									</td>
+								</tr>
                                 <tr>
                                     <td>Existing Pack:</td>
                                     <td><input type="text" name="existing_pack" value="<?php echo set_value('existing_pack'); ?>" /></td>
@@ -202,8 +210,11 @@
 	        		</div>
         		</form>
 	        </div>
-	        <div class="clearFix"></div>
-            <script type="text/javascript">
+			<div class="clearFix"></div>
+			
+			<script type="text/javascript">
+				var jsonLink = "<?php echo base_url(); ?>assets/json/tv-list.json";
+				var list = [];
                 var cause_of_pending = $("#cause_of_pending");
                 var order_id = $("#order_id");
                 //disabled by default
@@ -223,5 +234,19 @@
                         cause_of_pending.prop('disabled', false);
                     }
                 });
+				
+				$(document).ready(function() {
+					
+					$.getJSON(jsonLink, function(data){
+						list = data.data;
+						console.log(list);
+						$('.js-example-basic-multiple').select2({								
+							theme: "classic",
+							data:list,
+						});
+					}).error(function(){
+						console.log('error');
+					})
+				});
             </script>
 		</div>

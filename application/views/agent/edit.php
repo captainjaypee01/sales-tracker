@@ -104,7 +104,15 @@
                                 <tr>
                                     <td>New Internet Speed:</td>
                                     <td><input type="text" name="new_internet_speed" value="<?php echo $result['new_internet_speed']; ?>" /></td>
-                                </tr>
+								</tr>
+								<tr>
+									<td>TV Pack</td>
+									<td>
+										<select class="js-example-basic-multiple" id="tv-pack" name="tv_pack[]" multiple="multiple">
+											
+										</select>
+									</td>
+								</tr>
                                 <tr>
                                     <td>Existing Pack:</td>
                                     <td><input type="text" name="existing_pack" value="<?php echo $result['existing_pack']; ?>" /></td>
@@ -203,8 +211,12 @@
 		        		<input type="hidden" name="phone_no" value="<?php echo $result['phone_no']; ?>" />
 		        		<input type="hidden" name="campaign" value="<?php echo $result['campaign']; ?>" />
 	        		</div>
-        		</form>
-	        </div>
+				</form>
+			<?php 
+				$tvPacks = explode(',', $result['tv_pack']);
+			?>
+			</div>
+			
 	        <div class="clearFix"></div>
                 <script type="text/javascript">
                     var cause_of_pending = $("#cause_of_pending");
@@ -229,5 +241,31 @@
                             cause_of_pending.val("");
                         }
                     });
+					
+				$(document).ready(function() {
+					
+					var jsonLink = "<?php echo base_url(); ?>assets/json/tv-list.json";
+					var selectedList = [];
+					<?php 
+						foreach($tvPacks as $pack){
+							?>
+							selectedList.push('<?= $pack ?>');
+							<?php
+						}
+					?>
+					var list = [];
+					$.getJSON(jsonLink, function(data){
+						list = data.data;
+						console.log(selectedList);
+						$('#tv-pack').select2({								
+							theme: "classic",
+							multiple: true,
+							data:list,
+						});
+						$("#tv-pack").val(selectedList).trigger('change');
+					}).error(function(){
+						console.log('error');
+					})
+				});
                 </script>
 		</div>
